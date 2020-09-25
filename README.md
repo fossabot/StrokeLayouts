@@ -8,6 +8,7 @@
 不多说，请看图：
 
 ![image](https://github.com/razerdp/StrokeLayouts/blob/master/arts/demo.gif)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frazerdp%2FStrokeLayouts.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frazerdp%2FStrokeLayouts?ref=badge_shield)
 
   
 [![Download](https://api.bintray.com/packages/razerdp/maven/StrokeLayouts/images/download.svg)](https://bintray.com/razerdp/maven/StrokeLayouts/_latestVersion)
@@ -78,3 +79,6 @@ MIT
 
 
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frazerdp%2FStrokeLayouts.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frazerdp%2FStrokeLayouts?ref=badge_large)
